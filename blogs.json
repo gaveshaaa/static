@@ -3,21 +3,11 @@
   "blog-posts": [
     {
       "title": "Setting Up Pascal",
-      "content": "Hello Worlds #(laptopImage)",
+      "content": "lorem imsum dick my mouth go lmafo latish",
       "images": [
         {
           "name": "laptopImage",
           "src": "laptop.png"
-        }
-      ]
-    },
-    {
-      "title": "Setting Up Pascaline 2.0",
-      "content": "Hello Worlds #(desktopImage)",
-      "images": [
-        {
-          "name": "desktopImage",
-          "src": "pc.png"
         }
       ]
     }
